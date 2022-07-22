@@ -15,5 +15,7 @@ Lets code and hack the world of computer sciences
 Day 1 : Initiated a portfolio website in React  
 Day 2 : No code today  
 Day 3 : No code today  
-Day 4 : Set up the about page
+Day 4 : Set up the about page  
+Day 5 : Set up the footer
+
 
